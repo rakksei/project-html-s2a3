@@ -7,6 +7,9 @@ section{ text-align: center;}
 .flex-item{
   color: white;
   margin: 0 1em 1em;
+}
+
+.flex-item{
   border-radius: 5px;
 }
 
